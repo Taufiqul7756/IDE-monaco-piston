@@ -78,7 +78,7 @@ console.log(sum(3, 4));`, // Output: 7
   typescript: `function sum(a: number, b: number): number {
   return a + b;
 }
-console.log(sum(3, 4));`, // Output: 7
+console.log(sum(3, 4));`, // Output: 7.
 
   php: `function sum($a, $b) {
   return $a + $b;
